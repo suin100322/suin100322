@@ -1,1 +1,1 @@
-<a href="https://www.instagram.com/suin_1025/" target="_blank"><img src="https://img.shields.io/badge/suin_1025-#DE3163?style=flat-square&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title><path d="instagram"/></svg>&logoColor=FDFEFE"/></a>
+
